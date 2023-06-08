@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: #dce0f4;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 5px;
+    border-bottom: 1px solid black;
+    background-color: #cbd2f3;
+}
+h1 {
+    background-color: #cbd2f3;
+    padding-left: 15px;
+}
+
+nav {
+    background-color: #cbd2f3;
+}
+
+nav ul {
+    background-color: #cbd2f3;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 1em;
+    cursor: pointer;
+    background-color: #cbd2f3;
+}
